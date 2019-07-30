@@ -1,0 +1,1 @@
+g++ -o "/home/zy/projects/Client/bin/x64/Debug/Client.out" -Wl,--no-undefined -Wl,-L"/usr/lib/x86_64-linux-gnu" -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/zy/projects/Client/../Client/obj/x64/Debug/ChatClient.o /home/zy/projects/Client/../Client/obj/x64/Debug/main.o -lmuduo_net -lmuduo_base -lpthread

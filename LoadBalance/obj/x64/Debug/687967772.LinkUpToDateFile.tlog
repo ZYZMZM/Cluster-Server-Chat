@@ -1,0 +1,1 @@
+g++ -o "/home/zy/projects/LoadBalance/bin/x64/Debug/LoadBalance.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/zy/projects/LoadBalance/../LoadBalance/obj/x64/Debug/main.o

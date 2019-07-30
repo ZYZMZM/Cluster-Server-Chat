@@ -1,0 +1,18 @@
+﻿  正在清理远程项目目录
+  正在验证源
+  正在将源远程复制到“192.168.204.132”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  ChatClient.cpp
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Client\ChatClient.cpp(289,35): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Client\ChatClient.cpp(291,35): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Client\ChatClient.cpp(308,35): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Client\ChatClient.cpp(310,35): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Client\ChatClient.cpp(327,35): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Client\ChatClient.cpp(351,35): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Client\ChatClient.cpp(375,35): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+  main.cpp
+  正在链接对象
+  Client.vcxproj -> C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Client\bin\x64\Debug\Client.out
