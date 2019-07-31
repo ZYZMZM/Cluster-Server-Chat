@@ -1,0 +1,1 @@
+g++ -o "/home/zy/projects/Server/bin/x64/Debug/Server.out" -Wl,--no-undefined -Wl,-L"/usr/lib/x86_64-linux-gnu" -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/zy/projects/Server/../Server/obj/x64/Debug/ChatServer.o /home/zy/projects/Server/../Server/obj/x64/Debug/main.o -lmuduo_net -lmuduo_base -lmysqlclient -lhiredis -lpthread

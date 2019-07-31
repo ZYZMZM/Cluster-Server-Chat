@@ -1,0 +1,15 @@
+﻿  正在清理远程项目目录
+  正在验证源
+  正在将源远程复制到“192.168.204.132”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  ChatServer.cpp
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\ClusterService.h(317,7): warning : unused variable ‘myId’ [-Wunused-variable]
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\ClusterService.h(317,7): warning :    int myId = js["myId"].get<int>();
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\ClusterService.h(317,7): warning :        ^~~~
+  main.cpp
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\main.cpp(14,41): warning : conversion to ‘uint16_t {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+  正在链接对象
+  Server.vcxproj -> C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\bin\x64\Debug\Server.out

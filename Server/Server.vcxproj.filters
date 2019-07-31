@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="ChatServer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="do">
+      <UniqueIdentifier>{fd83f921-f63a-42e6-95f8-069e5ca5c04f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model">
+      <UniqueIdentifier>{92ab3aab-bb41-45c5-9ecb-ec1ecd881c5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="service">
+      <UniqueIdentifier>{2166e453-42d3-4728-a0bc-18bce2c5a3ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="redis">
+      <UniqueIdentifier>{bf5982fe-eac1-4a8d-8647-0889c19fef39}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="UserDO.h">
+      <Filter>do</Filter>
+    </ClInclude>
+    <ClInclude Include="UserModelBase.h">
+      <Filter>model</Filter>
+    </ClInclude>
+    <ClInclude Include="MySQL.h" />
+    <ClInclude Include="ChatServer.h" />
+    <ClInclude Include="CommonServiceBase.h">
+      <Filter>service</Filter>
+    </ClInclude>
+    <ClInclude Include="json.hpp" />
+    <ClInclude Include="public.h" />
+    <ClInclude Include="SingleService.h">
+      <Filter>service</Filter>
+    </ClInclude>
+    <ClInclude Include="ClusterService.h">
+      <Filter>service</Filter>
+    </ClInclude>
+    <ClInclude Include="FriendModelBase.h">
+      <Filter>model</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupDO.h">
+      <Filter>do</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupModelBase.h">
+      <Filter>model</Filter>
+    </ClInclude>
+    <ClInclude Include="OfflineMsg.h">
+      <Filter>do</Filter>
+    </ClInclude>
+    <ClInclude Include="OfflineMsgModeBase.h">
+      <Filter>model</Filter>
+    </ClInclude>
+    <ClInclude Include="RedisServer.h">
+      <Filter>redis</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

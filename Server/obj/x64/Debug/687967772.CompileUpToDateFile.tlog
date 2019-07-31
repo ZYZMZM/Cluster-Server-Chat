@@ -1,0 +1,17 @@
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\ChatServer.cpp|637001855040966362|/home/zy/projects/Server/../Server||g++ -c -x c++ /home/zy/projects/Server/ChatServer.cpp -I /usr/include/mysql -g2 -gdwarf-2 -o "/home/zy/projects/Server/../Server/obj/x64/Debug/ChatServer.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\main.cpp|637001904592805980|/home/zy/projects/Server/../Server||g++ -c -x c++ /home/zy/projects/Server/main.cpp -I /usr/include/mysql -g2 -gdwarf-2 -o "/home/zy/projects/Server/../Server/obj/x64/Debug/main.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O0 -fno-strict-aliasing -fno-omit-frame-pointer -fthreadsafe-statics -fexceptions -frtti -std=c++11
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\ChatServer.h|636995883580475476|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\ClusterService.h|637001927302194070|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\CommonServiceBase.h|637001697218731193|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\FriendModelBase.h|637000466702958016|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\GroupDO.h|637000371598367505|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\GroupModelBase.h|637001228554641672|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\json.hpp|637000483572380215|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\MySQL.h|637000123984243355|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\OfflineMsg.h|637001645515272219|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\OfflineMsgModeBase.h|637000257195335624|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\public.h|637000472041538712|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\RedisServer.h|637001899694054569|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\SingleService.h|637001900168096357|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\UserDO.h|636995025520000000|/home/zy/projects/Server/../Server|| 
+C:\Users\ZY JIMMY\Desktop\暑期C++项目\clusterchatserver-master\Server\UserModelBase.h|637001792169639707|/home/zy/projects/Server/../Server|| 
